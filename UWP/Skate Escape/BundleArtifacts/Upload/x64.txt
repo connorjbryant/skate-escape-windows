@@ -1,0 +1,6 @@
+MainPackage=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_x64_Master.appx
+SymbolPackage=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_Master\Skate Escape_1.14.6.0_x64_Master.appxsym
+ResourcePack=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_scale-100.appx
+ResourcePack=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_scale-125.appx
+ResourcePack=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_scale-150.appx
+ResourcePack=C:\Users\conno\Skate Escape Windows\UWP\build\bin\x64\Master\Upload\Skate Escape_1.14.6.0_scale-400.appx
